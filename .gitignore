@@ -1,0 +1,17 @@
+# ambiente virtual
+.venv/
+venv/
+
+# cache do Python
+__pycache__/
+*.pyc
+
+# cache do pytest
+.pytest_cache/
+
+# IntelliJ / PyCharm
+.idea/
+
+# sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
